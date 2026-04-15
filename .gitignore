@@ -1,0 +1,5 @@
+.settings.env
+data/
+.claude/settings.local.json
+.claude/launch.json
+.claude/preview/
